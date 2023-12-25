@@ -1,0 +1,24 @@
+template:
+  bootstrap: 5
+  bslib:
+    bg: "#F9F7F7"
+    fg: "#112D4E"
+    primary: "#3F72AF"
+    navbar-color: "#FFFFFF"
+    base_font: {google: "Roboto"}
+    heading_font: {google: "Roboto Slab"}
+    code_font: {google: "JetBrains Mono"}
+navbar:
+  bg: none
+  type: light
+authors:
+  Chung-hong Chan:
+    href: http://www.chainsawriot.com
+  David Schoch:
+    href: https://mr.schochastics.net
+footer:
+  structure:
+    left: legal
+    right: developed_by
+  components:
+    legal: Maintained by <a href="https://github.com/gesistsa"><img alt="TSA Team" src="https://raw.githubusercontent.com/gesistsa/.github/main/tsa_logo.png" width="20"> Transparent Social Analytics Team, GESIS</a>
