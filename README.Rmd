@@ -13,7 +13,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-# tsapkgdown
+# tsatemplate
 
 <!-- badges: start -->
 <!-- badges: end -->
