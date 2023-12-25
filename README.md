@@ -13,6 +13,8 @@ for R packages maintained by Transparent Social Analytics Team,
 
 You probably don’t need to care about this.
 
+Demo: <https://gesistsa.github.io/rang/>
+
 ## Usage
 
 1.  In `DESCRIPTION`, add this

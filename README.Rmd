@@ -22,6 +22,8 @@ This is the minimal [pkgdown](https://github.com/r-lib/pkgdown) template for R p
 
 You probably don't need to care about this.
 
+Demo: [https://gesistsa.github.io/rang/](https://gesistsa.github.io/rang/)
+
 ## Usage
 
 1. In `DESCRIPTION`, add this
