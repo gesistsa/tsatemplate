@@ -1,16 +1,13 @@
 template:
   bootstrap: 5
+  bootswatch: litera # https://bootswatch.com/litera
   bslib:
-    bg: "#F9F7F7"
-    fg: "#112D4E"
-    primary: "#3F72AF"
-    navbar-color: "#FFFFFF"
-    base_font: {google: "Roboto"}
+    primary: "#1E64AA"
+    danger: "#BE1414"
+    link-color: "#1E64AA"
+    link-hover-color: "#BE1414"
     heading_font: {google: "Roboto Slab"}
     code_font: {google: "JetBrains Mono"}
-navbar:
-  bg: none
-  type: light
 authors:
   Chung-hong Chan:
     href: http://www.chainsawriot.com
